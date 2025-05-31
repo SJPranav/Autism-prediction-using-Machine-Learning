@@ -4,7 +4,7 @@ This project applies machine learning techniques to predict the likelihood of au
 
 ## 📁 Dataset
 
-- Source: `train.csv` (uploaded)
+- Source: `train.csv` 
 - Features include responses to screening questions, age, gender, ethnicity, and more.
 
 ## 🛠️ Technologies Used
@@ -17,13 +17,15 @@ This project applies machine learning techniques to predict the likelihood of au
 
 ## 📊 Model Performance
 
-- Accuracy Achieved: ~XX% (you can fill in actual values)
-- Cross-validation, confusion matrix, and classification report were used for evaluation.
+- Best Cross-Validation Accuracy: 92%
 
 ## 📌 How to Run
 
 1. Clone this repo:
-   ```bash
-   git clone https://github.com/your-username/autism-prediction-ml.git
-   cd autism-prediction-ml
+   Open gitbash in the folder you want to save and run this command
+   git clone https://github.com/SJPranav/Autism-prediction-using-Machine-Learning.git
+2.Open the .ipynb in Google Colab
+3.Upload train.csv
+4.Run the cells in order to train the model and see the predictions.
+ 
 
