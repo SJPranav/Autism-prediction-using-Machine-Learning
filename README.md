@@ -23,9 +23,9 @@ This project applies machine learning techniques to predict the likelihood of au
 
 1. Clone this repo:
    Open gitbash in the folder you want to save and run this command
-   git clone https://github.com/SJPranav/Autism-prediction-using-Machine-Learning.git
-2.Open the .ipynb in Google Colab
-3.Upload train.csv
+   git clone https://github.com/SJPranav/Autism-prediction-using-Machine-Learning.git/n
+2.Open the .ipynb in Google Colab/n
+3.Upload train.csv/n
 4.Run the cells in order to train the model and see the predictions.
  
 
